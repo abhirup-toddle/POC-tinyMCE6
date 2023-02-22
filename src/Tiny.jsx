@@ -98,3 +98,6 @@ export default function Tiny({inline=false}) {
     </>
   );
 }
+
+// Note about adding React Components to TinyMCE -  
+// https://stackoverflow.com/questions/51805554/add-react-component-to-tinymce-editor-content
